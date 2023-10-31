@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_key_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_key_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_edit_profile.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_investor_proposal_item.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/investor_proposal_item.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_proposal_item.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/proposal_item.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_fragment_index.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/fragment_index.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_add_circle_24_white.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_add_circle_24_white.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_success.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_success.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_healthcat.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/healthcat.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_error_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_error_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_edit_calendar_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_edit_calendar_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_catebanner.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/catebanner.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_techedu.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/techedu.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_add_project.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_add_project.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_investor_detail.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_investor_detail.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_prev_invest.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/prev_invest.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.innova.app-main-36:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_edit_project.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_edit_project.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_cyberg.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/cyberg.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_fintech.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/fintech.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_gme.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/gme.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_fragment_add_proj.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/fragment_add_proj.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_propobaner.jpeg.flat",
+        "source": "com.example.innova.app-main-36:/drawable/propobaner.jpeg"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/font_montserrat_medium.xml.flat",
+        "source": "com.example.innova.app-main-36:/font/montserrat_medium.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_freebanner.jpg.flat",
+        "source": "com.example.innova.app-main-36:/drawable/freebanner.jpg"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_person_pin_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_add_circle_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.innova.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_bottom_check.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/bottom_check.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_done_all_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_done_all_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_progress_loader.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/progress_loader.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_fragment_project.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/fragment_project.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_format_list_bulleted_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_investor_proporsal.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_investor_proporsal.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_ok_no_dialog.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/ok_no_dialog.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_vr.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/vr.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_my_proporsals.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_my_proporsals.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_banner.jpg.flat",
+        "source": "com.example.innova.app-main-36:/drawable/banner.jpg"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_home.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_menu_book_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_menu_book_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_sucbanner.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/sucbanner.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_all_proj_details.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_all_proj_details.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_api_loader.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/api_loader.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.innova.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_fragment_work.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/fragment_work.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_favorite_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_ecomm.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/ecomm.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/font_montserrat_bold.xml.flat",
+        "source": "com.example.innova.app-main-36:/font/montserrat_bold.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_pending_actions_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_pending_actions_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_fragment_profile.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_edit_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_local_phone_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_rounded_corner_outline.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/rounded_corner_outline.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/layout_activity_project_detail.xml.flat",
+        "source": "com.example.innova.app-main-36:/layout/activity_project_detail.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.innova.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_dataninja.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/dataninja.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_logo.png.flat",
+        "source": "com.example.innova.app-main-36:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_baseline_business_center_24.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/baseline_business_center_24.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/font_montserrat.xml.flat",
+        "source": "com.example.innova.app-main-36:/font/montserrat.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_dropdown_background_outline.xml.flat",
+        "source": "com.example.innova.app-main-36:/drawable/dropdown_background_outline.xml"
+    },
+    {
+        "merged": "com.example.innova.app-merged_res-34:/drawable_probanner.jpg.flat",
+        "source": "com.example.innova.app-main-36:/drawable/probanner.jpg"
+    }
+]

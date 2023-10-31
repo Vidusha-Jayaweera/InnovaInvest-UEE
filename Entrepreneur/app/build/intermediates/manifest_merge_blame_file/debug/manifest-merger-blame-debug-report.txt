@@ -1,0 +1,223 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.innova"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:6:5-79
+12-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <queries>
+14-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:9:5-19:15
+15
+16        <!-- Query Camera Packages -->
+17        <intent>
+17-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+18            <action android:name="android.media.action.IMAGE_CAPTURE" />
+18-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:13:13-73
+18-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:13:21-70
+19        </intent>
+20        <!-- Query Open Document -->
+21        <intent>
+21-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:16:9-18:18
+22            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+22-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:17:13-79
+22-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:17:21-76
+23        </intent>
+24    </queries>
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.innova.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.innova.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:8:5-65:19
+33        android:allowBackup="true"
+33-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:9:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+35        android:dataExtractionRules="@xml/data_extraction_rules"
+35-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:10:9-65
+36        android:debuggable="true"
+37        android:extractNativeLibs="false"
+38        android:fullBackupContent="@xml/backup_rules"
+38-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:11:9-54
+39        android:icon="@mipmap/ic_launcher"
+39-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:12:9-43
+40        android:label="@string/app_name"
+40-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:13:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:14:9-54
+42        android:supportsRtl="true"
+42-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:15:9-35
+43        android:testOnly="true"
+44        android:theme="@style/Theme.Innova"
+44-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:16:9-44
+45        android:usesCleartextTraffic="true" >
+45-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:17:9-44
+46        <activity
+46-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:19:9-21:40
+47            android:name="com.example.innova.Activity.AllProjDetails"
+47-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:20:13-52
+48            android:exported="false" />
+48-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:21:13-37
+49        <activity
+49-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:22:9-24:40
+50            android:name="com.example.innova.Activity.MyProporsals"
+50-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:23:13-50
+51            android:exported="false" />
+51-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:24:13-37
+52        <activity
+52-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:25:9-27:40
+53            android:name="com.example.innova.Activity.EditProject"
+53-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:26:13-49
+54            android:exported="false" />
+54-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:27:13-37
+55        <activity
+55-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:28:9-30:40
+56            android:name="com.example.innova.Activity.AddProject"
+56-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:29:13-48
+57            android:exported="false" />
+57-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:30:13-37
+58        <activity
+58-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:31:9-33:40
+59            android:name="com.example.innova.Activity.InvestorProporsal"
+59-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:32:13-55
+60            android:exported="false" />
+60-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:33:13-37
+61        <activity
+61-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:34:9-36:40
+62            android:name="com.example.innova.Activity.ProjectDetail"
+62-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:35:13-51
+63            android:exported="false" />
+63-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:36:13-37
+64        <activity
+64-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:37:9-39:40
+65            android:name="com.example.innova.Activity.InvestorDetail"
+65-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:38:13-52
+66            android:exported="false" />
+66-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:39:13-37
+67        <activity
+67-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:40:9-42:40
+68            android:name="com.example.innova.Activity.Success"
+68-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:41:13-45
+69            android:exported="false" />
+69-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:42:13-37
+70        <activity
+70-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:43:9-45:40
+71            android:name="com.example.innova.Activity.SignUp"
+71-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:44:13-44
+72            android:exported="false" />
+72-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:45:13-37
+73        <activity
+73-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:46:9-54:20
+74            android:name="com.example.innova.Activity.SignIn"
+74-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:47:13-44
+75            android:exported="true" >
+75-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:48:13-36
+76            <intent-filter>
+76-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:49:13-53:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:50:17-69
+77-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:50:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:52:17-77
+79-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:52:27-74
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:55:9-57:40
+83            android:name="com.example.innova.Activity.EditProfile"
+83-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:56:13-49
+84            android:exported="false" />
+84-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:57:13-37
+85        <activity
+85-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:58:9-60:48
+86            android:name="com.example.innova.Activity.Home"
+86-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:59:13-42
+87            android:exported="true" />
+87-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:60:13-36
+88
+89        <meta-data
+89-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:62:9-64:57
+90            android:name="preloaded_fonts"
+90-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:63:13-43
+91            android:resource="@array/preloaded_fonts" />
+91-->E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:64:13-54
+92
+93        <activity
+93-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:22:9-25:68
+94            android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity"
+94-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:23:13-81
+95            android:screenOrientation="unspecified"
+95-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:24:13-52
+96            android:theme="@style/Theme.Transparent.ImagePicker" />
+96-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:25:13-65
+97        <activity
+97-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:26:9-29:72
+98            android:name="com.yalantis.ucrop.UCropActivity"
+98-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:27:13-60
+99            android:screenOrientation="portrait"
+99-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:28:13-49
+100            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+100-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:29:13-69
+101
+102        <provider
+102-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:31:9-39:20
+103            android:name="com.github.dhaval2404.imagepicker.ImagePickerFileProvider"
+103-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:32:13-85
+104            android:authorities="com.example.innova.imagepicker.provider"
+104-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:33:13-72
+105            android:exported="false"
+105-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:34:13-37
+106            android:grantUriPermissions="true" >
+106-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:35:13-47
+107            <meta-data
+107-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:36:13-38:71
+108                android:name="android.support.FILE_PROVIDER_PATHS"
+108-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:37:17-67
+109                android:resource="@xml/image_picker_provider_paths" />
+109-->[com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:38:17-68
+110        </provider>
+111        <provider
+111-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+112            android:name="androidx.startup.InitializationProvider"
+112-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+113            android:authorities="com.example.innova.androidx-startup"
+113-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+114            android:exported="false" >
+114-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+115            <meta-data
+115-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+116                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+116-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+117                android:value="androidx.startup" />
+117-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+118            <meta-data
+118-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+119                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+119-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+120                android:value="androidx.startup" />
+120-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+121        </provider>
+122    </application>
+123
+124</manifest>

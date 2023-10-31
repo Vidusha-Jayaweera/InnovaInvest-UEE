@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\3b9fdc1981589be52a07da17a8447333\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ASUS TUF\.gradle\caches\transforms-3\c2b7c7fdf12653af027dd6f38cc19998\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\7b903ebfa9cb11bffc02fb6bdfabc9e3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\a31e195183ac83d6d2b1d5a9dc6cfa25\transformed\ucrop-2.2.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d3402d1e0ca6b1fae6a2259e6d246531\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4060c772a51724138ea68a9818245296\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e2b1b59e1a6e01e255126b715c1650d0\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\cc1fc4012896ba3aaefb1d37fe5c141c\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e039a8cd9e14514419b58c0ffe009376\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d28e7fefe47d12292004b9d7faddd95f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\18284da08d1e327d4f8a071356dc2c53\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\5aa96d380ca28e3bcb1e3382bbe32da6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ea6614b632587b91a65836558e8a0efc\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\083cabe495fe62f4c2d0907e9227e50d\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b446088c7c86d7e51b935d4d6ced0664\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\6360aec212bf0cfd3b05f8f6df462124\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\23e2a522b3887283132bd6238e257c76\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\6aa2c479d61561eb14794459af8beaf0\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\76a6149e4ac538e06fbfde7febeb14ca\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\21c44132e6f9a2ecfdac26309122bd9c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\8316a0829865d0e7df1e5a6a093514cf\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d3ab1c27c842e280554468346c67edaf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\0fb1a9d3dc06ca0eb5f4f3aa9da73b7e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\49d1b379d90990df89e3bb1148e5cce6\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\dcda7eaf2ebe61852521b42b8ecece7a\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\53d045812f27b1e1ff8c27b62ff01036\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\f1dd06bd4d206d513fe82cc49cd4c4d8\transformed\shimmer-0.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\04cc6b9b8a9ef9183909dbbc280774e6\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4d6f628057b6cf4bd6a6ddc67c1d3399\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\26699fbe3af5cc4aab1556673fb31543\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b96b6a77e724223faf13269d07d596de\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\9b62b1398391468ec990da3afd4956e1\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\642f8b7677ce681abd91e450d700a0a4\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\43abc6bda00737742a071398f81fba07\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e08cc17b541218b4fc0774e7871a8cb2\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\876b647bad000e5c1ad1daddf8e36afd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b8e40b9aef9968e90ab5085541605432\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\f6cda0dceaf920d3ee4082fb94dde6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ab25cfe5329c89249901148baa70813d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\77349ca7e993b64c7351dd9723903ba3\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ba3e9a8c067f7e151cbb187bbfa9d3d2\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\5b55d90073f799a2d7efb7d4adee9468\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\412f5f431c73f3754b35438e82f64381\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\12e9d7f72559f463c31442f4d30379c2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:8:5-65:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\3b9fdc1981589be52a07da17a8447333\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\3b9fdc1981589be52a07da17a8447333\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ASUS TUF\.gradle\caches\transforms-3\c2b7c7fdf12653af027dd6f38cc19998\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ASUS TUF\.gradle\caches\transforms-3\c2b7c7fdf12653af027dd6f38cc19998\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:21:5-40:19
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:21:5-40:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\876b647bad000e5c1ad1daddf8e36afd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\876b647bad000e5c1ad1daddf8e36afd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\f6cda0dceaf920d3ee4082fb94dde6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\f6cda0dceaf920d3ee4082fb94dde6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:16:9-44
+	android:dataExtractionRules
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:10:9-65
+	android:usesCleartextTraffic
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:17:9-44
+activity#com.example.innova.Activity.AllProjDetails
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:20:13-52
+activity#com.example.innova.Activity.MyProporsals
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:23:13-50
+activity#com.example.innova.Activity.EditProject
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:26:13-49
+activity#com.example.innova.Activity.AddProject
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:29:13-48
+activity#com.example.innova.Activity.InvestorProporsal
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:32:13-55
+activity#com.example.innova.Activity.ProjectDetail
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:35:13-51
+activity#com.example.innova.Activity.InvestorDetail
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:38:13-52
+activity#com.example.innova.Activity.Success
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:40:9-42:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:41:13-45
+activity#com.example.innova.Activity.SignUp
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:43:9-45:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:44:13-44
+activity#com.example.innova.Activity.SignIn
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:46:9-54:20
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:47:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.example.innova.Activity.EditProfile
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:55:9-57:40
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:56:13-49
+activity#com.example.innova.Activity.Home
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:58:9-60:48
+	android:exported
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:59:13-42
+meta-data#preloaded_fonts
+ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:62:9-64:57
+	android:resource
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:64:13-54
+	android:name
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml:63:13-43
+uses-sdk
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\3b9fdc1981589be52a07da17a8447333\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\3b9fdc1981589be52a07da17a8447333\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ASUS TUF\.gradle\caches\transforms-3\c2b7c7fdf12653af027dd6f38cc19998\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ASUS TUF\.gradle\caches\transforms-3\c2b7c7fdf12653af027dd6f38cc19998\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\7b903ebfa9cb11bffc02fb6bdfabc9e3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\7b903ebfa9cb11bffc02fb6bdfabc9e3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\a31e195183ac83d6d2b1d5a9dc6cfa25\transformed\ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\a31e195183ac83d6d2b1d5a9dc6cfa25\transformed\ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d3402d1e0ca6b1fae6a2259e6d246531\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d3402d1e0ca6b1fae6a2259e6d246531\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4060c772a51724138ea68a9818245296\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4060c772a51724138ea68a9818245296\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e2b1b59e1a6e01e255126b715c1650d0\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e2b1b59e1a6e01e255126b715c1650d0\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\cc1fc4012896ba3aaefb1d37fe5c141c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\cc1fc4012896ba3aaefb1d37fe5c141c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e039a8cd9e14514419b58c0ffe009376\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e039a8cd9e14514419b58c0ffe009376\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d28e7fefe47d12292004b9d7faddd95f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d28e7fefe47d12292004b9d7faddd95f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\18284da08d1e327d4f8a071356dc2c53\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\18284da08d1e327d4f8a071356dc2c53\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\5aa96d380ca28e3bcb1e3382bbe32da6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\5aa96d380ca28e3bcb1e3382bbe32da6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ea6614b632587b91a65836558e8a0efc\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ea6614b632587b91a65836558e8a0efc\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\083cabe495fe62f4c2d0907e9227e50d\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\083cabe495fe62f4c2d0907e9227e50d\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b446088c7c86d7e51b935d4d6ced0664\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b446088c7c86d7e51b935d4d6ced0664\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\6360aec212bf0cfd3b05f8f6df462124\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\6360aec212bf0cfd3b05f8f6df462124\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\23e2a522b3887283132bd6238e257c76\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\23e2a522b3887283132bd6238e257c76\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\6aa2c479d61561eb14794459af8beaf0\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\6aa2c479d61561eb14794459af8beaf0\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\76a6149e4ac538e06fbfde7febeb14ca\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\76a6149e4ac538e06fbfde7febeb14ca\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\21c44132e6f9a2ecfdac26309122bd9c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\21c44132e6f9a2ecfdac26309122bd9c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\8316a0829865d0e7df1e5a6a093514cf\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\8316a0829865d0e7df1e5a6a093514cf\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d3ab1c27c842e280554468346c67edaf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\d3ab1c27c842e280554468346c67edaf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\0fb1a9d3dc06ca0eb5f4f3aa9da73b7e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\0fb1a9d3dc06ca0eb5f4f3aa9da73b7e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\49d1b379d90990df89e3bb1148e5cce6\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\49d1b379d90990df89e3bb1148e5cce6\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\dcda7eaf2ebe61852521b42b8ecece7a\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\dcda7eaf2ebe61852521b42b8ecece7a\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\53d045812f27b1e1ff8c27b62ff01036\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\53d045812f27b1e1ff8c27b62ff01036\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\f1dd06bd4d206d513fe82cc49cd4c4d8\transformed\shimmer-0.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\f1dd06bd4d206d513fe82cc49cd4c4d8\transformed\shimmer-0.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\04cc6b9b8a9ef9183909dbbc280774e6\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\04cc6b9b8a9ef9183909dbbc280774e6\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4d6f628057b6cf4bd6a6ddc67c1d3399\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4d6f628057b6cf4bd6a6ddc67c1d3399\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\26699fbe3af5cc4aab1556673fb31543\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\26699fbe3af5cc4aab1556673fb31543\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b96b6a77e724223faf13269d07d596de\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b96b6a77e724223faf13269d07d596de\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\9b62b1398391468ec990da3afd4956e1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\9b62b1398391468ec990da3afd4956e1\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\642f8b7677ce681abd91e450d700a0a4\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\642f8b7677ce681abd91e450d700a0a4\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\43abc6bda00737742a071398f81fba07\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\ASUS TUF\.gradle\caches\transforms-3\43abc6bda00737742a071398f81fba07\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e08cc17b541218b4fc0774e7871a8cb2\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\e08cc17b541218b4fc0774e7871a8cb2\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\876b647bad000e5c1ad1daddf8e36afd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\876b647bad000e5c1ad1daddf8e36afd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b8e40b9aef9968e90ab5085541605432\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\b8e40b9aef9968e90ab5085541605432\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\f6cda0dceaf920d3ee4082fb94dde6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\f6cda0dceaf920d3ee4082fb94dde6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ab25cfe5329c89249901148baa70813d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ab25cfe5329c89249901148baa70813d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\77349ca7e993b64c7351dd9723903ba3\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\77349ca7e993b64c7351dd9723903ba3\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ba3e9a8c067f7e151cbb187bbfa9d3d2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\ba3e9a8c067f7e151cbb187bbfa9d3d2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\5b55d90073f799a2d7efb7d4adee9468\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\5b55d90073f799a2d7efb7d4adee9468\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\412f5f431c73f3754b35438e82f64381\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\412f5f431c73f3754b35438e82f64381\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\12e9d7f72559f463c31442f4d30379c2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\12e9d7f72559f463c31442f4d30379c2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+		ADDED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SLIIT\Year 3 - Sem 1\UEE\Final Project\InnovaInvest-master\frontend\Innova\app\src\main\AndroidManifest.xml
+queries
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:9:5-19:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:13:21-70
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:16:9-18:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:17:13-79
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:17:21-76
+activity#com.github.dhaval2404.imagepicker.ImagePickerActivity
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:22:9-25:68
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:24:13-52
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:23:13-81
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:26:9-29:72
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:27:13-60
+provider#com.github.dhaval2404.imagepicker.ImagePickerFileProvider
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:35:13-47
+	android:authorities
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:33:13-72
+	android:exported
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:32:13-85
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:36:13-38:71
+	android:resource
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4ef7fc8f17faf4e3eb57dd932362199b\transformed\imagepicker-2.1\AndroidManifest.xml:37:17-67
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\876b647bad000e5c1ad1daddf8e36afd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\876b647bad000e5c1ad1daddf8e36afd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\4f96de9b85d5dd150c41c8acd7db491b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.innova.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.innova.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\ASUS TUF\.gradle\caches\transforms-3\746b970adb934fcab12e9758ee6af53e\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ASUS TUF\.gradle\caches\transforms-3\743b9335c62620171befc72909c9ed6b\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
